@@ -8,6 +8,8 @@ Node.js installed (v14.x or higher)
 
 npm installed (v6.x or higher)
 
+Playwright installed
+
 Git installed
 
 ## Steps to Run the Test
