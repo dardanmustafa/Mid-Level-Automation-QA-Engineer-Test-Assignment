@@ -40,4 +40,6 @@ npx playwright test
 
 or 
 
-We can install Playwright Test for VSCode Extenstion and run the test
+#### We can install Playwright Test for VSCode Extenstion and run the test
+
+
