@@ -5,7 +5,9 @@ This repository contains an automated test for the Yavlena broker page. The test
 ## Prerequisites
 
 Node.js installed (v14.x or higher)
+
 npm installed (v6.x or higher)
+
 Git installed
 
 ## Steps to Run the Test
